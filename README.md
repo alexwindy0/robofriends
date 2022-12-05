@@ -70,3 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 #robofriends
 # robofriends
+
+
+# netlify build progress
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6a853d2f-b236-4a0f-9d4d-677c866165d9/deploy-status)](https://app.netlify.com/sites/robocardbox/deploys)
